@@ -103,12 +103,12 @@ export default function About(props) {
   return (
     <>
       <div className="position-relative text-white">
-        {/* <img
+        <img
           src={servicebanner}
           alt="service banner"
           className="img-fluid w-100"
           style={{ height: "70vh", backgroundSize: "contain" }}
-        /> */}
+        />
 
         {/* <div className="" style={{ width: "100%" }}>
           <div
