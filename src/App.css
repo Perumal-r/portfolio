@@ -1,0 +1,29 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  background-color: #d8d8d8;
+  overflow-x: hidden;
+  font-family: "revicons";
+  background: url("https://www.horussmartcontrol.com/wp-content/plugins/popup-for-contact-form-7/images/bg-red.jpg")
+    no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+body[data-aos-duration="4000"] [data-aos],
+[data-aos][data-aos][data-aos-duration="4000"] {
+  transition-duration: 4000ms;
+}
+* {
+  box-sizing: border-box;
+}
+.btn {
+  background-color: #2b386c;
+}
+.btn:hover {
+  background-color: #2b386c;
+}
