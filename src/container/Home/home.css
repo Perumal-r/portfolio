@@ -20,6 +20,7 @@
 }
 .nav-link:focus {
   color: white !important;
+  text-decoration: underline !important;
 }
 .navHead {
   background: #012c54;

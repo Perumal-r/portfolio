@@ -48,7 +48,7 @@ export default function Carousel() {
           </h3>
           <div className="d-flex justify-content-center mt-5">
             <button className="btn mt-1 shadow cursor-pointer">
-              <Link to="/about" className="text-white text-decoration-none">
+              <Link to="/service" className="text-white text-decoration-none">
                 About Me
                 <span>
                   <TbPlayerTrackNextFilled className="blink ms-2" />
